@@ -3685,7 +3685,7 @@ slice-ansi@^2.1.0:
 
 smooth-dnd@avabotdiscord/smooth-dnd:
   version "0.12.1"
-  resolved "https://codeload.github.com/avabotdiscord/smooth-dnd/tar.gz/451d348e4d1dc033a766d7b2b19b30084e697d87"
+  resolved "https://codeload.github.com/avabotdiscord/smooth-dnd/tar.gz/05c8964346fa00e750ef03b9c2aa7d85348045ab"
 
 snapdragon-node@^2.0.1:
   version "2.1.1"
